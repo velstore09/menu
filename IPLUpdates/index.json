@@ -22,5 +22,41 @@
   "name": "SCHEDULE",
   "pro": "",
   "srn": ""
+  },
+  {
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/LIVESCORE-mini.png",
+  "name": "LIVESCORE",
+  "pro": "",
+  "srn": ""
+  },
+  {
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/POINTSTABLE-mini.png",
+  "name": "POINTSTABLE",
+  "pro": "",
+  "srn": ""
+  },
+  {
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/LIVE-mini.png",
+  "name": "LIVE",
+  "pro": "",
+  "srn": ""
+  },
+  {
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/HIGHLIGHTS-mini.png",
+  "name": "VENUE",
+  "pro": "",
+  "srn": ""
+  },
+  {
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/VENUE-mini.png",
+  "name": "POINTSTABLE",
+  "pro": "",
+  "srn": ""
+  },
+  {
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/RESULT-mini.png",
+  "name": "SCHEDULE",
+  "pro": "",
+  "srn": ""
   }
 ]
