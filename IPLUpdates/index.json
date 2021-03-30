@@ -3,60 +3,60 @@
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/NEWS-min.png",
   "name": "NEWS",
   "pro": "",
-  "srn": ""
+  "srn": "news"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/PHOTOS-min.png",
   "name": "GALLERY",
   "pro": "",
-  "srn": ""
+  "srn": "gallery"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/TEAMS-min.png",
   "name": "TEAMS",
   "pro": "",
-  "srn": ""
+  "srn": "teams"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/SCHEDULE-min.png",
   "name": "SCHEDULE",
   "pro": "",
-  "srn": ""
+  "srn": "gallery"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/LIVESCORE-min.png",
   "name": "LIVESCORE",
   "pro": "",
-  "srn": ""
+  "srn": "web"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/POINTSTABLE-min.png",
   "name": "POINTSTABLE",
   "pro": "",
-  "srn": ""
+  "srn": "web"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/LIVE-min.png",
   "name": "LIVE",
   "pro": "",
-  "srn": ""
+  "srn": "vlist"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/HIGHLIGHTS-min.png",
   "name": "HIGHLIGHTS",
   "pro": "",
-  "srn": ""
+  "srn": "vlist"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/VENUE-min.png",
   "name": "VENUE",
   "pro": "",
-  "srn": ""
+  "srn": "venue"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/RESULT-min.png",
   "name": "RESULT",
   "pro": "",
-  "srn": ""
+  "srn": "web"
   }
 ]
