@@ -1,1 +1,102 @@
-
+[
+  { "name": "ROHIT SHARMA",
+    "img": "https://static.iplt20.com/players/210/107.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/107/rohit-sharma"
+  },
+  { "name": "QUINTON DE KOCK",
+    "img": "https://static.iplt20.com/players/210/834.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/834/quinton-de-kock"
+  },
+  { "name": "ARJUN TENDULKAR",
+    "img": "https://static.iplt20.com/players/210/10244.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/10244/arjun-tendulkar"
+  },
+  { "name": "NATHAN COULTER NILE",
+    "img": "https://static.iplt20.com/players/210/840.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/840/nathan-coulter-nile"
+  },
+  { "name": "TRENT BOULT",
+    "img": "https://static.iplt20.com/players/210/969.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/969/trent-boult"
+  },
+  { "name": "JIMMY NEESHAM",
+    "img": "https://static.iplt20.com/players/210/971.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/971/jimmy-neesham"
+  },
+  { "name": "JAYANT YADAV",
+    "img": "https://static.iplt20.com/players/210/1740.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/1740/jayant-yadav"
+  },
+  { "name": "PIYUSH CHAWLA",
+    "img": "https://static.iplt20.com/players/210/76.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/76/piyush-chawla"
+  },
+  { "name": "KIERON POLLARD",
+    "img": "https://static.iplt20.com/players/210/210.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/210/kieron-pollard"
+  },
+  { "name": "ANMOLPREET SINGH",
+    "img": "https://static.iplt20.com/players/210/2965.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/2965/anmolpreet-singh"
+  },
+  { "name": "MOHSIN KHAN",
+    "img": "https://static.iplt20.com/players/210/4952.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/4952/mohsin-khan"
+  },
+  { "name": "YUDHVIR CHARAK",
+    "img": "https://static.iplt20.com/players/210/10842.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/10842/yudhvir-charak"
+  },
+  { "name": "ISHNA KISHAN",
+    "img": "https://static.iplt20.com/players/210/2975.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/2975/ishan-kishan"
+  },
+  { "name": "ADITYA TARE",
+    "img": "https://static.iplt20.com/players/210/99.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/99/aditya-tare"
+  },
+  { "name": "SAURABH TIWARY",
+    "img": "https://static.iplt20.com/players/210/163.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/163/saurabh-tiwary"
+  },
+  { "name": "JASPRIT BUMRAH",
+    "img": "https://static.iplt20.com/players/210/1124.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/1124/jasprit-bumrah"
+  },
+  { "name": "DHAWAL KULKARNI",
+    "img": "https://static.iplt20.com/players/210/101.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/101/dhawal-kulkarni"
+  },
+  { "name": "SURYAKUMAR YADAV",
+    "img": "https://static.iplt20.com/players/210/108.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/108/suryakumar-yadav"
+  },
+  { "name": "MARCO JANSEN",
+    "img": "https://static.iplt20.com/players/210/17068.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/17068/marco-jansen"
+  },
+  { "name": "KRUNAL PANDYA",
+    "img": "https://static.iplt20.com/players/210/3183.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/3183/krunal-pandya"
+  },
+  { "name": "ADAM MILNE",
+    "img": "https://static.iplt20.com/players/210/434.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/434/adam-milne"
+  },
+  { "name": "CHRIS LYNN",
+    "img": "https://static.iplt20.com/players/210/179.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/179/chris-lynn"
+  },
+  { "name": "RAHUL CHAHAR",
+    "img": "https://static.iplt20.com/players/210/3763.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/3763/rahul-chahar"
+  },
+  { "name": "HARDIK PANDYA",
+    "img": "https://static.iplt20.com/players/210/2740.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/2740/hardik-pandya"
+  },
+  { "name": "ANUKUL ROY",
+    "img": "https://static.iplt20.com/players/210/3774.png",
+    "link": "https://www.iplt20.com/teams/mumbai-indians/squad/3774/anukul-roy"
+  }
+]  
