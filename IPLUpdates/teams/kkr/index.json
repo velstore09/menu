@@ -1,1 +1,102 @@
-
+[
+  { "name": "EOIN MORGAN",
+    "img": "https://static.iplt20.com/players/210/197.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/197/eoin-morgan"
+  },
+  { "name": "ANDRE RUSSELL",
+    "img": "https://static.iplt20.com/players/210/177.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/177/andre-russell"
+  },
+  { "name": "DINESH KARTHIK",
+    "img": "https://static.iplt20.com/players/210/102.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/102/dinesh-karthik"
+  },
+  { "name": "KAMLESH NAGARKOTI",
+    "img": "https://static.iplt20.com/players/210/3766.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/3766/kamlesh-nagarkoti"
+  },
+  { "name": "KULDEEP YADAV",
+    "img": "https://static.iplt20.com/players/210/261.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/261/kuldeep-yadav"
+  },
+  { "name": "LOCKLE FERGUSON",
+    "img": "https://static.iplt20.com/players/210/3729.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/3729/lockie-ferguson"
+  },
+  { "name": "NITISH RANA",
+    "img": "https://static.iplt20.com/players/210/2738.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/2738/nitish-rana"
+  },
+  { "name": "PAT CUMMINS",
+    "img": "https://static.iplt20.com/players/210/488.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/488/pat-cummins"
+  },
+  { "name": "PRASIDH KRISHNA",
+    "img": "https://static.iplt20.com/players/210/5105.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/5105/prasidh-krishna"
+  },
+  { "name": "RAHUL TRIPATHI",
+    "img": "https://static.iplt20.com/players/210/3838.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/3838/rahul-tripathi"
+  },
+  { "name": "SANDEEP WARRIER",
+    "img": "https://static.iplt20.com/players/210/1092.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/1092/sandeep-warrier"
+  },
+  { "name": "RINKU SINGH",
+    "img": "https://static.iplt20.com/players/210/3830.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/3830/rinku-singh"
+  },
+  { "name": "SHIVAM MAVI",
+    "img": "https://static.iplt20.com/players/210/3779.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/3779/shivam-mavi"
+  },
+  { "name": "SHUBMAN GILL",
+    "img": "https://static.iplt20.com/players/210/3761.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/3761/shubman-gill"
+  },
+  { "name": "SUNIL NARINE",
+    "img": "https://static.iplt20.com/players/210/203.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/203/sunil-narine"
+  },
+  { "name": "TIM SEIFERT",
+    "img": "https://static.iplt20.com/players/210/1619.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/1619/tim-seifert"
+  },
+  { "name": "VARUN CHAKRAVARTHY",
+    "img": "https://static.iplt20.com/players/210/5432.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/5432/varun-chakravarthy"
+  },
+  { "name": "SHAKIB AL HASAN",
+    "img": "https://static.iplt20.com/players/210/201.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/201/shakib-al-hasan"
+  },
+  { "name": "SHELDON JACKSON",
+    "img": "https://static.iplt20.com/players/210/1116.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/1116/sheldon-jackson"
+  },
+  { "name": "VAIBHAV ARORA",
+    "img": "https://static.iplt20.com/players/210/14859.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/14859/vaibhav-arora"
+  },
+  { "name": "KARUN NAIR",
+    "img": "https://static.iplt20.com/players/210/276.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/276/karun-nair"
+  },
+  { "name": "HARBHAJAN SINGH",
+    "img": "https://static.iplt20.com/players/210/103.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/103/harbhajan-singh"
+  },
+  { "name": "BEN CUTTING",
+    "img": "https://static.iplt20.com/players/210/913.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/913/ben-cutting"
+  },
+  { "name": "VENKATESH IYER",
+    "img": "https://static.iplt20.com/players/210/8540.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/8540/venkatesh-iyer"
+  },
+  { "name": "PAWAN NEGI",
+    "img": "https://static.iplt20.com/players/210/53.png",
+    "link": "https://www.iplt20.com/teams/kolkata-knight-riders/squad/53/pawan-negi"
+  }
+]  
