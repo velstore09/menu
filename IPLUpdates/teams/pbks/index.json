@@ -1,1 +1,125 @@
-
+[
+  { "name": "KL RAHUL",
+    "img": "https://static.iplt20.com/players/210/1125.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/1125/kl-rahul"
+  },
+  
+  { "name": "HARPREET BRAR",
+    "img": "https://static.iplt20.com/players/210/5441.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/5441/harpreet-brar"
+  },
+  
+  { "name": "ISHAN POREL",
+    "img": "https://static.iplt20.com/players/210/3777.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/3777/ishan-porel"
+  },
+  
+  { "name": "UTKARSH SINGH",
+    "img": "https://static.iplt20.com/players/210/3841.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/3841/utkarsh-singh"
+  },
+  
+  { "name": "MOISES HENRIQUES",
+    "img": "https://static.iplt20.com/players/210/388.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/388/moises-henriques"
+  },
+  
+  { "name": "JHYE RICHARDSON",
+    "img": "https://static.iplt20.com/players/210/3781.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/3781/jhye-richardson"
+  },
+  
+  { "name": "MANDEEP SINGH",
+    "img": "https://static.iplt20.com/players/210/72.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/72/mandeep-singh"
+  },
+  
+  { "name": "CHRIS JORDAN",
+    "img": "https://static.iplt20.com/players/210/1299.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/1299/chris-jordan"
+  },
+  
+  { "name": "DEEPAK HOODA",
+    "img": "https://static.iplt20.com/players/210/1556.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/1556/deepak-hooda"
+  },
+  
+  { "name": "RAVI BISHNOI",
+    "img": "https://static.iplt20.com/players/210/19351.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/19351/ravi-bishnoi"
+  },
+  
+  { "name": "RILEY MEREDITH",
+    "img": "https://static.iplt20.com/players/210/4055.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/4055/riley-meredith"
+  },
+  
+  { "name": "ARSHDEEP SINGH",
+    "img": "https://static.iplt20.com/players/210/4698.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/4698/arshdeep-singh"
+  },
+  
+  { "name": "SARFARAZ KHAN",
+    "img": "https://static.iplt20.com/players/210/1564.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/1564/sarfaraz-khan"
+  },
+  
+  { "name": "MAYANK AGARWAL",
+    "img": "https://static.iplt20.com/players/210/158.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/158/mayank-agarwal"
+  },
+  
+  { "name": "MOHAMMAD SHAMI",
+    "img": "https://static.iplt20.com/players/210/94.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/94/mohammad-shami"
+  },
+  
+  { "name": "DARSHAN NALKANDE",
+    "img": "https://static.iplt20.com/players/210/4447.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/4447/darshan-nalkande"
+  },
+  
+  { "name": "SHAHRUKH KHAN",
+    "img": "https://static.iplt20.com/players/210/7779.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/7779/shahrukh-khan"
+  },
+  
+  { "name": "NICHOLAS POORAN",
+    "img": "https://static.iplt20.com/players/210/1703.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/1703/nicholas-pooran"
+  },
+  
+  { "name": "FABIAN ALLEN",
+    "img": "https://static.iplt20.com/players/210/1707.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/1707/fabian-allen"
+  },
+  
+  { "name": "CHRIS GAYLE",
+    "img": "https://static.iplt20.com/players/210/236.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/236/chris-gayle"
+  },
+  
+  { "name": "MURUGAN ASHWIN",
+    "img": "https://static.iplt20.com/players/210/3187.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/3187/murugan-ashwin"
+  },
+  
+  { "name": "DAWID MALAN",
+    "img": "https://static.iplt20.com/players/210/3318.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/3318/dawid-malan"
+  },
+  
+  { "name": "PRABHSIMRAN SINGH",
+    "img": "https://static.iplt20.com/players/210/5436.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/5436/prabhsimran-singh"
+  },
+  
+  { "name": "SAURABH KUMAR",
+    "img": "https://static.iplt20.com/players/210/3836.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/3836/saurabh-kumar"
+  },
+  { "name": "JALAJ SAXENA",
+    "img": "https://static.iplt20.com/players/210/1087.png",
+    "link": "https://www.iplt20.com/teams/punjab-kings/squad/1087/jalaj-saxena"
+  }
+]  
