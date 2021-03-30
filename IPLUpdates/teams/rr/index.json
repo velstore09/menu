@@ -1,1 +1,98 @@
-
+[
+  { "name": "SANJU SAMSON",
+    "img": "https://static.iplt20.com/players/210/258.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/258/sanju-samson"
+  },
+  { "name": "KULDIP YADAV",
+    "img": "https://static.iplt20.com/players/210/12480.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/12480/kuldip-yadav"
+  },
+  { "name": "BEN STOKES",
+    "img": "https://static.iplt20.com/players/210/1154.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/1154/ben-stokes"
+  },
+  { "name": "YASHASVI JAISWAL",
+    "img": "https://static.iplt20.com/players/210/13538.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/13538/yashasvi-jaiswal"
+  },
+  { "name": "ANUJ RAWAT",
+    "img": "https://static.iplt20.com/players/210/10788.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/10788/anuj-rawat"
+  },
+  { "name": "CHRIS MORRIS",
+    "img": "https://static.iplt20.com/players/210/836.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/836/chris-morris"
+  },
+  { "name": "ANDREW TYE",
+    "img": "https://static.iplt20.com/players/210/1480.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/1480/andrew-tye"
+  },
+  { "name": "AKASH SINGH",
+    "img": "https://static.iplt20.com/players/210/12585.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/12585/akash-singh"
+  },
+  { "name": "KARTIK TYAGI",
+    "img": "https://static.iplt20.com/players/210/10059.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/10059/kartik-tyagi"
+  },
+  { "name": "JOFRA ARCHER",
+    "img": "https://static.iplt20.com/players/210/3502.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/3502/jofra-archer"
+  },
+  { "name": "SHREYAS GOPAL",
+    "img": "https://static.iplt20.com/players/210/1748.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/1748/shreyas-gopal"
+  },
+  { "name": "RAHUL TEWATIA",
+    "img": "https://static.iplt20.com/players/210/1749.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/1749/rahul-tewatia"
+  },
+  { "name": "JAYDEV UNADKAT",
+    "img": "https://static.iplt20.com/players/210/86.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/86/jaydev-unadkat"
+  },
+  { "name": "CHETAN SAKARIYA",
+    "img": "https://static.iplt20.com/players/210/11062.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/11062/chetan-sakariya"
+  },
+  { "name": "MAYANK MARKANDE",
+    "img": "https://static.iplt20.com/players/210/4951.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/4951/mayank-markande"
+  },
+  { "name": "SHIVAM DUBE",
+    "img": "https://static.iplt20.com/players/210/5431.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/5431/shivam-dube"
+  },
+  { "name": "KC CARIAPPA",
+    "img": "https://static.iplt20.com/players/210/2743.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/2743/kc-cariappa"
+  },
+  { "name": "MAHIPAL LOMROR",
+    "img": "https://static.iplt20.com/players/210/2970.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/2970/mahipal-lomror"
+  },
+  { "name": "MUSTAFIZUR RAHMAN",
+    "img": "https://static.iplt20.com/players/210/1594.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/1594/mustafizur-rahman"
+  },
+  { "name": "DAVID MILLER",
+    "img": "https://static.iplt20.com/players/210/187.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/187/david-miller"
+  },
+  { "name": "LIAM LIVINGSTONE",
+    "img": "https://static.iplt20.com/players/210/3644.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/3644/liam-livingstone"
+  },
+  { "name": "JOS BUTTLER",
+    "img": "https://static.iplt20.com/players/210/509.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/509/jos-buttler"
+  },
+  { "name": "MANAN VOHRA",
+    "img": "https://static.iplt20.com/players/210/1085.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/1085/manan-vohra"
+  },
+  { "name": "RIYAN PARAG",
+    "img": "https://static.iplt20.com/players/210/4445.png",
+    "link": "https://www.iplt20.com/teams/rajasthan-royals/squad/4445/riyan-parag"
+  }
+]  
