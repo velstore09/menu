@@ -1,1 +1,52 @@
-
+[
+  { "name": "M. Chinnaswamy Stadium",
+    "img": "https://resources.platform.iplt20.com/IPL/photo/2017/03/09/39f0c37e-e3ad-4719-88e2-2a09c54c6678/M.Chinnaswamy-Stadium.jpg",
+    "link": "https://www.iplt20.com/venues/5/m-chinnaswamy-stadium",
+    "sub": "Home of the Royal Challengers Bangalore"
+  },
+  { "name": "Arun Jaitley Stadium",
+    "img": "https://resources.platform.iplt20.com/IPL/photo/2017/03/09/eaf37b01-780e-4077-920b-5305d19f1844/Ferozeshah-Kotla.jpg",
+    "link": "https://www.iplt20.com/venues/8/arun-jaitley-stadium",
+    "sub": "Home of the Delhi Capitals"
+  },
+  { "name": "Rajiv Gandhi Intl. Cricket Stadium",
+    "img": "https://resources.platform.iplt20.com/IPL/photo/2018/04/01/6e9a8920-e328-4b94-9fff-2419c67efc0f/Rajiv-Gandhi-Stadium.JPG",
+    "link": "https://www.iplt20.com/venues/10/rajiv-gandhi-intl-cricket-stadium",
+    "sub": "Home of the Sunrisers Hyderabad"
+  },
+  { "name": "Holkar Cricket Stadium",
+    "img": "https://resources.platform.iplt20.com/IPL/photo/2017/03/23/51615077-ad2c-4597-acde-d38a4ed4f7be/SPC_1503.JPG",
+    "link": "https://www.iplt20.com/venues/17/holkar-cricket-stadium",
+    "sub": "Home of the Punjab Kings"
+  },
+  { "name": "Sawai Mansingh Stadium",
+    "img": "https://resources.platform.iplt20.com/IPL/photo/2018/04/01/add24151-1cde-4d45-8c32-502323c3b5fb/SMS-stadium.JPG",
+    "link": "https://www.iplt20.com/venues/3/sawai-mansingh-stadium",
+    "sub": "Home of the Rajasthan Royals"
+  },
+  { "name": "Eden Gardens",
+    "img": "https://resources.platform.iplt20.com/IPL/photo/2017/03/09/4a7511cc-5064-4677-b62d-de99a162fcc8/Eden-Gardens.jpg",
+    "link": "https://www.iplt20.com/venues/2/eden-gardens",
+    "sub": "Home of the Kolkata Knight Riders"
+  },
+  { "name": "IS Bindra Stadium",
+    "img": "https://resources.platform.iplt20.com/IPL/photo/2017/03/09/26eb54b2-a4dd-4216-ae9f-3f0d71f936f3/Punjab-Cricket-Association-Stadium.jpg",
+    "link": "https://www.iplt20.com/venues/9/is-bindra-stadium",
+    "sub": "Home of the Punjab Kings"
+  },
+  { "name": "Wankhede Stadium",
+    "img": "https://resources.platform.iplt20.com/IPL/photo/2017/03/09/98c6f7db-b62e-43be-94a3-f6150358c0bc/Wankhede-Stadium.jpg",
+    "link": "https://www.iplt20.com/venues/4/wankhede-stadium",
+    "sub": "Home of the Mumbai Indians"
+  },
+  { "name": "Maharashtra Cricket Association's International Stadium",
+    "img": "https://resources.platform.iplt20.com/IPL/photo/2018/04/04/6f3be1a1-a871-4a8f-be81-c4d4a303c635/PAL_8022.JPG",
+    "link": "https://www.iplt20.com/venues/7/maharashtra-cricket-association-s-international-stadium",
+    "sub": "Home of the Rising Pune Supergiant"
+  },
+  { "name": "M. A. Chidambaram Stadium",
+    "img": "https://resources.platform.iplt20.com/IPL/photo/2018/02/16/867725a6-2220-490d-87d6-dab0ab546527/Chennai.jpg",
+    "link": "https://www.iplt20.com/venues/1/m-a-chidambaram-stadium",
+    "sub": "Home of the Chennai Super Kings"
+  }
+]
