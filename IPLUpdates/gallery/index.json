@@ -2,5 +2,9 @@
   { "name": "Images",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
     "link": "https://vel9.velayudhan.me/IPLUpdates/gallery/img/images/index.json"
+  },
+  { "name": "Images",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
+    "link": "https://vel9.velayudhan.me/IPLUpdates/gallery/img/images/index.json"
   }
 ]
