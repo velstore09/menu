@@ -1,22 +1,27 @@
 [
   { "name": "Star Sports",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": ""
+    "link": "",
+    "srn": "web"
   },
   { "name": "Gazi Tv",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": ""
+    "link": "",
+    "srn": "web"
   },
   { "name": "Super Sport",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": ""
+    "link": "",
+    "srn": "web"
   },
   { "name": "Willow HD",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": ""
+    "link": "",
+    "srn": "web"
   },
   { "name": "Channel9",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": ""
+    "link": "",
+    "srn": "web"
   }
 ]
