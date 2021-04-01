@@ -26,18 +26,18 @@
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/LIVESCORE-min.png",
   "name": "LIVESCORE",
-  "pro": "https://google.com",
+  "pro": "",
   "srn": "web"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/POINTSTABLE-min.png",
   "name": "POINTSTABLE",
-  "pro": "https://google.com",
+  "pro": "",
   "srn": "web"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/LIVE-min.png",
-  "name": "LIVE BROADCAST CHANNELS",
+  "name": "LIVE BROADCAST CHANNELS LIST",
   "pro": "https://vel9.velayudhan.me/IPLUpdates/live/index.json",
   "srn": "vlist"
   },
@@ -56,14 +56,7 @@
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/RESULT-min.png",
   "name": "RESULT",
-  "pro": "https://google.com",
+  "pro": "",
   "srn": "web"
-  }
-  ,
-  {
-  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/RESULT-min.png",
-  "name": "Prediction",
-  "pro": "https://t.me/iplprediction_2022",
-  "srn": "act"
   }
 ]
