@@ -58,5 +58,11 @@
   "name": "RESULT",
   "pro": "",
   "srn": "web"
-  }
+  },
+  {
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/GAMES-min.png",
+  "name": "Games",
+  "pro": "https://vel9.velayudhan.me/IPLUpdates/games/index.json",
+  "srn": "news"
+  },
 ]
