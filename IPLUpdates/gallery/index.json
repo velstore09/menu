@@ -1,10 +1,10 @@
 [
-  { "name": "Images",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://vel9.velayudhan.me/IPLUpdates/gallery/img/images/index.json"
+  { "name": "Auction",
+    "img": "https://resources.platform.iplt20.com/photo-resources/IPL/photo/2021/02/18/706a28a8-c5f6-4573-a602-090f8359efb6/0U5A1393.JPG?width=889&height=1333",
+    "link": "https://vel9.velayudhan.me/IPLUpdates/gallery/img/Auction/index.json"
   },
-  { "name": "Images",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://vel9.velayudhan.me/IPLUpdates/gallery/img/images/index.json"
+  { "name": "Auction",
+    "img": "https://resources.platform.iplt20.com/photo-resources/IPL/photo/2021/02/18/706a28a8-c5f6-4573-a602-090f8359efb6/0U5A1393.JPG?width=889&height=1333",
+    "link": "https://vel9.velayudhan.me/IPLUpdates/gallery/img/Auction/index.json"
   }
 ]
