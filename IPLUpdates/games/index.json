@@ -8,5 +8,20 @@
     "img": "https://freakxapps.com/wp-content/uploads/2020/03/street-cricket.png",
     "link": "https://freakxapps.com/demo/me/street-cricket/",
     "srn": "game"
+  },
+  { "name": "CPL Tournament",
+    "img": "https://image.cricketgamesatme.com/games/slide/5211_slide.jpg",
+    "link": "https://games.htmlgames.com/CPLTournament/",
+    "srn": "game"
+  },
+  { "name": "Cricket World Cup",
+    "img": "https://apkgamers.org/wp-content/uploads/2019/07/World-of-Cricket-World-Cup-2019-MOD-APK-Download-2.jpg",
+    "link": "https://freakxapps.com/demo/me/cricket-world-cup/",
+    "srn": "game"
+  },
+  { "name": "Cricket4 2020",
+    "img": "https://static.play123.in/game-images/cricket-2020_big.jpg",
+    "link": "https://freakxapps.com/demo/me/cricket4-2020/",
+    "srn": "game"
   }
 ]
