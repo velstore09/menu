@@ -38,14 +38,14 @@
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/LIVESCORE-min.png",
   "name": "LIVESCORE",
-  "pro": "",
-  "srn": "web"
+  "pro": "https://vel9.velayudhan.me/IPLUpdates/coming/index.html",
+  "srn": "game"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/POINTSTABLE-min.png",
   "name": "POINTSTABLE",
-  "pro": "",
-  "srn": "web"
+  "pro": "https://vel9.velayudhan.me/IPLUpdates/coming/index.html",
+  "srn": "game"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/LIVE-min.png",
@@ -68,8 +68,8 @@
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/RESULT-min.png",
   "name": "RESULT",
-  "pro": "",
-  "srn": "web"
+  "pro": "https://vel9.velayudhan.me/IPLUpdates/coming/index.html",
+  "srn": "game"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/GAMES-min.png",
