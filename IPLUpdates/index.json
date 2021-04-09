@@ -64,11 +64,5 @@
   "name": "Games",
   "pro": "https://vel9.velayudhan.me/IPLUpdates/games/index.json",
   "srn": "news"
-  },
-  {
-  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/GAMES-min.png",
-  "name": "Games",
-  "pro": "https://rebrand.ly/HunkTV",
-  "srn": "app"
   }
 ]
