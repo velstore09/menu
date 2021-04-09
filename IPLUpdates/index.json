@@ -6,22 +6,10 @@
   "srn": "news"
   },
   {
-  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/PRETEL-min.png",
-  "name": "PREDICTION (T)",
-  "pro": "https://t.me/iplprediction_2022",
-  "srn": "act"
-  },
-  {
-  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/PREAPP-min.png",
-  "name": "PREDICTION (A)",
-  "pro": "https://play.google.com/store/apps/details?id=com.predictor.link",
-  "srn": "act"
-  },
-  {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/PHOTOS-min.png",
   "name": "GALLERY",
-  "pro": "https://vel9.velayudhan.me/IPLUpdates/gallery/index.json",
-  "srn": "gallery"
+  "pro": "https://vel9.velayudhan.me/IPLUpdates/coming/index.html",
+  "srn": "act"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/TEAMS-min.png",
@@ -49,9 +37,9 @@
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/LIVE-min.png",
-  "name": "LIVE BROADCAST CHANNELS LIST",
-  "pro": "https://vel9.velayudhan.me/IPLUpdates/live/index.json",
-  "srn": "vlist"
+  "name": "CHANNELS LIST",
+  "pro": "https://vel9.velayudhan.me/IPLUpdates/coming/index.html",
+  "srn": "act"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/HIGHLIGHTS-min.png",
