@@ -26,20 +26,20 @@
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/LIVESCORE-min.png",
   "name": "LIVESCORE",
-  "pro": "https://vel9.velayudhan.me/IPLUpdates/coming/index.html",
+  "pro": "https://www.iplt20.com/match/2021/01",
   "srn": "web"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/POINTSTABLE-min.png",
   "name": "POINTSTABLE",
-  "pro": "https://vel9.velayudhan.me/IPLUpdates/coming/index.html",
+  "pro": "https://www.iplt20.com/points-table/men/2021",
   "srn": "web"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/LIVE-min.png",
-  "name": "CHANNELS LIST",
-  "pro": "https://vel9.velayudhan.me/IPLUpdates/coming/index.html",
-  "srn": "web"
+  "name": "LIVE BROADCAST CHANNELS LIST",
+  "pro": "https://www.iplt20.com/match/2021/01",
+  "srn": "vlist"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/HIGHLIGHTS-min.png",
@@ -56,7 +56,7 @@
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/RESULT-min.png",
   "name": "RESULT",
-  "pro": "https://vel9.velayudhan.me/IPLUpdates/coming/index.html",
+  "pro": "https://www.iplt20.com/matches/results/men/2021",
   "srn": "web"
   },
   {
