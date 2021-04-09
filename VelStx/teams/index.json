@@ -1,0 +1,34 @@
+[
+  { "name": "CSK",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/teams/csk.png",
+    "link": "https://vel9.velayudhan.me/IPLUpdates/teams/csk/index.json"
+  },
+  { "name": "RCB",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/teams/rcb.png",
+    "link": "https://vel9.velayudhan.me/IPLUpdates/teams/rcb/index.json"
+  },
+  { "name": "SRH",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/teams/srh.png",
+    "link": "https://vel9.velayudhan.me/IPLUpdates/teams/srh/index.json"
+  },
+  { "name": "MI",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/teams/mi.png",
+    "link": "https://vel9.velayudhan.me/IPLUpdates/teams/mi/index.json"
+  },
+  { "name": "RR",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/teams/rr.png",
+    "link": "https://vel9.velayudhan.me/IPLUpdates/teams/rr/index.json"
+  },
+  { "name": "KKR",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/teams/kkr.png",
+    "link": "https://vel9.velayudhan.me/IPLUpdates/teams/kkr/index.json"
+  },
+  { "name": "PBKS",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/teams/pbks.png",
+    "link": "https://vel9.velayudhan.me/IPLUpdates/teams/pbks/index.json"
+  },
+  { "name": "DC",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/teams/dc.png",
+    "link": "https://vel9.velayudhan.me/IPLUpdates/teams/dc/index.json"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  { "name": "MS DHONI",
+    "img": "https://static.iplt20.com/players/210/1.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/1/ms-dhoni"
+  },
+  { "name": "BHAGATH VARMA",
+    "img": "https://static.iplt20.com/players/210/7105.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/7105/bhagath-varma"
+  },
+  { "name": "IMRAN TAHIR",
+    "img": "https://static.iplt20.com/players/210/898.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/898/imran-tahir"
+  },
+  { "name": "HARISHANKAR REDDY",
+    "img": "https://static.iplt20.com/players/210/9474.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/9474/harishankar-reddy"
+  },
+  { "name": "RUTURAJ GAIKWAD",
+    "img": "https://static.iplt20.com/players/210/5443.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/5443/ruturaj-gaikwad"
+  },
+  { "name": "MOEEN ALI",
+    "img": "https://static.iplt20.com/players/210/1735.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/1735/moeen-ali"
+  },
+  { "name": "C HARI NISHAANTH",
+    "img": "https://static.iplt20.com/players/210/7111.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/7111/c-hari-nishaanth"
+  },
+  { "name": "RAVINDRA JADEJA",
+    "img": "https://static.iplt20.com/players/210/9.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/9/ravindra-jadeja"
+  },
+  { "name": "DEEPAK CHAHAR",
+    "img": "https://static.iplt20.com/players/210/140.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/140/deepak-chahar"
+  },
+  { "name": "NARAYAN JAGADEESAN",
+    "img": "https://static.iplt20.com/players/210/4942.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/4942/narayan-jagadeesan"
+  },
+  { "name": "SURESH RAINA",
+    "img": "https://static.iplt20.com/players/210/14.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/14/suresh-raina"
+  },
+  { "name": "KM ASIF",
+    "img": "https://static.iplt20.com/players/210/4944.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/4944/km-asif"
+  },
+  { "name": "SHARDUL THAKUR",
+    "img": "https://static.iplt20.com/players/210/1745.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/1745/shardul-thakur"
+  },
+  { "name": "R SAI KISHORE",
+    "img": "https://static.iplt20.com/players/210/7123.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/7123/r-sai-kishore"
+  },
+  { "name": "FAF DU PLESSIS",
+    "img": "https://static.iplt20.com/players/210/24.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/24/faf-du-plessis"
+  },
+  { "name": "DWAYNE BRAVO",
+    "img": "https://static.iplt20.com/players/210/25.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/25/dwayne-bravo"
+  },
+  { "name": "JOSH HAZLEWOOD",
+    "img": "https://static.iplt20.com/players/210/857.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/857/josh-hazlewood"
+  },
+  { "name": "CHETESHWAR PUJARA",
+    "img": "https://static.iplt20.com/players/210/156.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/156/cheteshwar-pujara"
+  },
+  { "name": "KARN SHARMA",
+    "img": "https://static.iplt20.com/players/210/1118.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/1118/karn-sharma"
+  },
+  { "name": "LUNGI NGIDI",
+    "img": "https://static.iplt20.com/players/210/3746.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/3746/lungi-ngidi"
+  },
+  { "name": "AMBATI RAYUDU",
+    "img": "https://static.iplt20.com/players/210/100.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/100/ambati-rayudu"
+  },
+  { "name": "MITCHELL SANTNER",
+    "img": "https://static.iplt20.com/players/210/1903.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/1903/mitchell-santner"
+  },
+  { "name": "KRISHNAPPA GOWTHAM",
+    "img": "https://static.iplt20.com/players/210/3834.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/3834/krishnappa-gowtham"
+  },
+  { "name": "SAM CURRAN",
+    "img": "https://static.iplt20.com/players/210/2939.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/2939/sam-curran"
+  },
+  { "name": "ROBIN UTHAPPA",
+    "img": "https://static.iplt20.com/players/210/127.png",
+    "link": "https://www.iplt20.com/teams/chennai-super-kings/squad/127/robin-uthappa"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  { "name": "Cricket Doddle",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/games/Doddle-min.png",
+    "link": "https://www.google.com/logos/2017/cricket17/cricket17.html?hl=en",
+    "srn": "game"
+  },
+  { "name": "Street Cricket",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/games/StreetCricket-min.png",
+    "link": "https://freakxapps.com/demo/me/street-cricket/",
+    "srn": "game"
+  },
+  { "name": "CPL Tournament",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/games/CPL%20Tournment-min.png",
+    "link": "https://games.htmlgames.com/CPLTournament/",
+    "srn": "game"
+  },
+  { "name": "Cricket World Cup",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/games/CricketWorldCup-min.png",
+    "link": "https://freakxapps.com/demo/me/cricket-world-cup/",
+    "srn": "game"
+  },
+  { "name": "Cricket4 2020",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/games/Cricket2020-min.png",
+    "link": "https://freakxapps.com/demo/me/cricket4-2020/",
+    "srn": "game"
+  }
+]

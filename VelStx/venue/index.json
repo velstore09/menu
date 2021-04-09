@@ -1,0 +1,52 @@
+[
+  { "name": "M. Chinnaswamy Stadium",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/venue/M.Chinnaswamy-Stadium-min.jpg",
+    "link": "https://www.iplt20.com/venues/5/m-chinnaswamy-stadium",
+    "sub": "Home of the Royal Challengers Bangalore"
+  },
+  { "name": "Arun Jaitley Stadium",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/venue/Ferozeshah-Kotla-min.jpg",
+    "link": "https://www.iplt20.com/venues/8/arun-jaitley-stadium",
+    "sub": "Home of the Delhi Capitals"
+  },
+  { "name": "Rajiv Gandhi Intl. Cricket Stadium",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/venue/Rajiv-Gandhi-Stadium-min.JPG",
+    "link": "https://www.iplt20.com/venues/10/rajiv-gandhi-intl-cricket-stadium",
+    "sub": "Home of the Sunrisers Hyderabad"
+  },
+  { "name": "Holkar Cricket Stadium",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/venue/holkar-min.JPG",
+    "link": "https://www.iplt20.com/venues/17/holkar-cricket-stadium",
+    "sub": "Home of the Punjab Kings"
+  },
+  { "name": "Sawai Mansingh Stadium",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/venue/SMS-stadium-min.JPG",
+    "link": "https://www.iplt20.com/venues/3/sawai-mansingh-stadium",
+    "sub": "Home of the Rajasthan Royals"
+  },
+  { "name": "Eden Gardens",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/venue/Eden-Gardens-min.jpg",
+    "link": "https://www.iplt20.com/venues/2/eden-gardens",
+    "sub": "Home of the Kolkata Knight Riders"
+  },
+  { "name": "IS Bindra Stadium",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/venue/is bin-min.jpg",
+    "link": "https://www.iplt20.com/venues/9/is-bindra-stadium",
+    "sub": "Home of the Punjab Kings"
+  },
+  { "name": "Wankhede Stadium",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/venue/Wankhede-Stadium-min.jpg",
+    "link": "https://www.iplt20.com/venues/4/wankhede-stadium",
+    "sub": "Home of the Mumbai Indians"
+  },
+  { "name": "Maharashtra Cricket Association's International Stadium",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/venue/maha-min.JPG",
+    "link": "https://www.iplt20.com/venues/7/maharashtra-cricket-association-s-international-stadium",
+    "sub": "Home of the Rising Pune Supergiant"
+  },
+  { "name": "M. A. Chidambaram Stadium",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/venue/ma chiChennai-min.jpg",
+    "link": "https://www.iplt20.com/venues/1/m-a-chidambaram-stadium",
+    "sub": "Home of the Chennai Super Kings"
+  }
+]
