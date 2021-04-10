@@ -10,7 +10,7 @@
   "name": "GALLERY",
   "pro": "https://vel9.velayudhan.me/VelStx/gallery/index.json",
   "srn": "gallery"
-  }
+  },
   {
   "image": "https://vel9.velayudhan.me/VelStx/menu/SCHEDULE-min.png",
   "name": "SCHEDULE",
@@ -40,7 +40,7 @@
   "name": "HIGHLIGHTS",
   "pro": "https://vel9.velayudhan.me/VelStx/highlights/index.json",
   "srn": "vlist"
-  }
+  },
   {
   "image": "https://vel9.velayudhan.me/VelStx/menu/RESULT-min.png",
   "name": "RESULT",
