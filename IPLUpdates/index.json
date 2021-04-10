@@ -6,12 +6,6 @@
   "srn": "news"
   },
   {
-  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/PHOTOS-min.png",
-  "name": "GALLERY",
-  "pro": "https://vel9.velayudhan.me/IPLUpdates/coming/index.html",
-  "srn": "web"
-  },
-  {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/TEAMS-min.png",
   "name": "TEAMS",
   "pro": "https://vel9.velayudhan.me/IPLUpdates/teams/index.json",
