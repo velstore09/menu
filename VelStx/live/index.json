@@ -1,19 +1,4 @@
 [
-  { "name": "Server 1",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "http://139.59.26.26/ipl2ndday/index.mpd",
-    "srn": "0"
-  },
-  { "name": "Server 2",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rebrand.ly/nxttest3",
-    "srn": "dweb"
-  },
-  { "name": "Server 3",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rebrand.ly/nxttest4",
-    "srn": "dweb"
-  },
   { "name": "Server 4",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
     "link": "http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8",
