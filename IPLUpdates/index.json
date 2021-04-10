@@ -24,12 +24,6 @@
   "srn": "web"
   },
   {
-  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/LIVE-min.png",
-  "name": "LIVE APP",
-  "pro": "https://bit.ly/3dMxP3w",
-  "srn": "app"
-  },
-  {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/POINTSTABLE-min.png",
   "name": "POINTSTABLE",
   "pro": "https://www.iplt20.com/points-table/men/2021",
@@ -40,6 +34,12 @@
   "name": "LIVE",
   "pro": "https://www.velayudhan.me",
   "srn": "web"
+  },
+  {
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/LIVE-min.png",
+  "name": "LIVE APP",
+  "pro": "https://bit.ly/3dMxP3w",
+  "srn": "app"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/HIGHLIGHTS-min.png",
