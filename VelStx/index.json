@@ -8,15 +8,9 @@
   {
   "image": "https://vel9.velayudhan.me/VelStx/menu/PHOTOS-min.png",
   "name": "GALLERY",
-  "pro": "https://vel9.velayudhan.me/VelStx/coming/index.html",
-  "srn": "web"
-  },
-  {
-  "image": "https://vel9.velayudhan.me/VelStx/menu/TEAMS-min.png",
-  "name": "TEAMS",
-  "pro": "https://vel9.velayudhan.me/VelStx/teams/index.json",
-  "srn": "teams"
-  },
+  "pro": "https://vel9.velayudhan.me/VelStx/gallery/index.json",
+  "srn": "gallery"
+  }
   {
   "image": "https://vel9.velayudhan.me/VelStx/menu/SCHEDULE-min.png",
   "name": "SCHEDULE",
@@ -26,7 +20,7 @@
   {
   "image": "https://vel9.velayudhan.me/VelStx/menu/LIVESCORE-min.png",
   "name": "LIVESCORE",
-  "pro": "https://www.iplt20.com/match/2021/01",
+  "pro": "https://www.iplt20.com/match/2021/02",
   "srn": "web"
   },
   {
@@ -37,8 +31,8 @@
   },
   {
   "image": "https://vel9.velayudhan.me/VelStx/menu/LIVE-min.png",
-  "name": "LIVE BROADCAST CHANNELS LIST",
-  "pro": "https://www.iplt20.com/match/2021/01",
+  "name": "LIVE",
+  "pro": "https://vel9.velayudhan.me/VelStx/live/index.json",
   "srn": "vlist"
   },
   {
@@ -46,13 +40,7 @@
   "name": "HIGHLIGHTS",
   "pro": "https://vel9.velayudhan.me/VelStx/highlights/index.json",
   "srn": "vlist"
-  },
-  {
-  "image": "https://vel9.velayudhan.me/VelStx/menu/VENUE-min.png",
-  "name": "VENUE",
-  "pro": "https://vel9.velayudhan.me/VelStx/venue/index.json",
-  "srn": "venue"
-  },
+  }
   {
   "image": "https://vel9.velayudhan.me/VelStx/menu/RESULT-min.png",
   "name": "RESULT",
