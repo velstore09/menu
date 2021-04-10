@@ -6,6 +6,18 @@
   "srn": "news"
   },
   {
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/PRETEL-min.png",
+  "name": "PREDICTION (T)",
+  "pro": "https://t.me/iplprediction_2022",
+  "srn": "act"
+  },
+  {
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/PREAPP-min.png",
+  "name": "PREDICTION (A)",
+  "pro": "https://play.google.com/store/apps/details?id=com.predictor.link",
+  "srn": "act"
+  },
+  {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/TEAMS-min.png",
   "name": "TEAMS",
   "pro": "https://vel9.velayudhan.me/IPLUpdates/teams/index.json",
