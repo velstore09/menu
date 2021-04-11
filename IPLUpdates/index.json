@@ -1,9 +1,9 @@
 [
   {
-  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/NEWS-min.png",
-  "name": "NEWS",
-  "pro": "https://vel9.velayudhan.me/IPLUpdates/news/index.json",
-  "srn": "news"
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/HIGHLIGHTS-min.png",
+  "name": "HIGHLIGHTS",
+  "pro": "https://vel9.velayudhan.me/IPLUpdates/highlights/index.json",
+  "srn": "vlist"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/PRETEL-min.png",
@@ -18,30 +18,6 @@
   "srn": "act"
   },
   {
-  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/TEAMS-min.png",
-  "name": "TEAMS",
-  "pro": "https://vel9.velayudhan.me/IPLUpdates/teams/index.json",
-  "srn": "teams"
-  },
-  {
-  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/SCHEDULE-min.png",
-  "name": "SCHEDULE",
-  "pro": "https://vel9.velayudhan.me/IPLUpdates/schedule/index.json",
-  "srn": "gallery"
-  },
-  {
-  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/LIVESCORE-min.png",
-  "name": "LIVESCORE",
-  "pro": "https://www.iplt20.com/match/2021/03",
-  "srn": "web"
-  },
-  {
-  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/POINTSTABLE-min.png",
-  "name": "POINTSTABLE",
-  "pro": "https://www.iplt20.com/points-table/men/2021",
-  "srn": "web"
-  }, 
-  {
   "image": "https://1.bp.blogspot.com/-E8NCkIDetro/YHL02rywd3I/AAAAAAAAAM0/UyKgU_3cRzAiwIQXIYeZXAgARpvMTn9HACLcBGAsYHQ/s0/live.png",
   "name": "LIVE APP",
   "pro": "https://bit.ly/3dMxP3w",
@@ -54,10 +30,34 @@
   "srn": "web"
   },
   {
-  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/HIGHLIGHTS-min.png",
-  "name": "HIGHLIGHTS",
-  "pro": "https://vel9.velayudhan.me/IPLUpdates/highlights/index.json",
-  "srn": "vlist"
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/LIVESCORE-min.png",
+  "name": "LIVESCORE",
+  "pro": "https://www.iplt20.com/match/2021/03",
+  "srn": "web"
+  },
+  {
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/TEAMS-min.png",
+  "name": "TEAMS",
+  "pro": "https://vel9.velayudhan.me/IPLUpdates/teams/index.json",
+  "srn": "teams"
+  },
+  {
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/NEWS-min.png",
+  "name": "NEWS",
+  "pro": "https://vel9.velayudhan.me/IPLUpdates/news/index.json",
+  "srn": "news"
+  },
+  {
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/SCHEDULE-min.png",
+  "name": "SCHEDULE",
+  "pro": "https://vel9.velayudhan.me/IPLUpdates/schedule/index.json",
+  "srn": "gallery"
+  },
+  {
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/POINTSTABLE-min.png",
+  "name": "POINTSTABLE",
+  "pro": "https://www.iplt20.com/points-table/men/2021",
+  "srn": "web"
   },
   {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/VENUE-min.png",
