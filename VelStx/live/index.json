@@ -1,4 +1,14 @@
 [
+  { "name": "Server NEW1",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
+    "link": "http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8",
+    "srn": "0"
+  },
+  { "name": "Server NEW2",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
+    "link": "http://103.109.110.102:1935/live/starsports1tamil.stream_720p/playlist.m3u8",
+    "srn": "0"
+  },
   { "name": "Server 1",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
     "link": "http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8",
