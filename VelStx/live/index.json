@@ -1,4 +1,14 @@
 [
+  { "name": "WServer 1",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
+    "link": "https://player.twitch.tv/?channel=wpeejlscwpfty&parent=google.com",
+    "srn": "dweb"
+  },
+  { "name": "WServer 2",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
+    "link": "https://player.twitch.tv/?channel=cketcyqvpoktla&parent=google.com",
+    "srn": "dweb"
+  },
   { "name": "Server 1",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
     "link": "http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8",
@@ -58,15 +68,5 @@
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
     "link": "http://tv.urix.xdns.pro/Z1CZAVQBCc970/lCxEcP5832/18807",
     "srn": "0"
-  },
-  { "name": "Server 13",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://player.twitch.tv/?channel=wpeejlscwpfty&parent=google.com",
-    "srn": "dweb"
-  },
-  { "name": "Server 14",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://player.twitch.tv/?channel=cketcyqvpoktla&parent=google.com",
-    "srn": "dweb"
   }
 ]
