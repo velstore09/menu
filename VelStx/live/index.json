@@ -1,55 +1,65 @@
 [
-  { "name": "Server NEW1",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8",
-    "srn": "0"
-  },
-  { "name": "Server NEW2",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "http://103.109.110.102:1935/live/starsports1tamil.stream_720p/playlist.m3u8",
-    "srn": "0"
-  },
   { "name": "Server 1",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8",
+    "link": "http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8",
     "srn": "0"
   },
   { "name": "Server 2",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "http://23.105.171.47:8000/Carson/Carson/10209",
+    "link": "http://103.109.110.102:1935/live/starsports1tamil.stream_720p/playlist.m3u8",
     "srn": "0"
   },
   { "name": "Server 3",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "http://185.71.64.167/live/fjzRh16iWA/EODnFc43pl/83393.m3u8",
+    "link": "http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8",
     "srn": "0"
   },
   { "name": "Server 4",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8",
+    "link": "http://23.105.171.47:8000/Carson/Carson/10209",
     "srn": "0"
   },
   { "name": "Server 5",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "http://www.dayiptv.pro:25461/npTJZa5RcNEzL5Y/Nk8SfNNXwJvu8wB/93731",
+    "link": "http://185.71.64.167/live/fjzRh16iWA/EODnFc43pl/83393.m3u8",
     "srn": "0"
   },
   { "name": "Server 6",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "http://www.dayiptv.pro:25461/npTJZa5RcNEzL5Y/Nk8SfNNXwJvu8wB/93724",
+    "link": "http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8",
     "srn": "0"
   },
   { "name": "Server 7",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "http://www.dayiptv.pro:25461/npTJZa5RcNEzL5Y/Nk8SfNNXwJvu8wB/63505",
+    "link": "http://www.dayiptv.pro:25461/npTJZa5RcNEzL5Y/Nk8SfNNXwJvu8wB/93731",
     "srn": "0"
   },
   { "name": "Server 8",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
+    "link": "http://www.dayiptv.pro:25461/npTJZa5RcNEzL5Y/Nk8SfNNXwJvu8wB/93724",
+    "srn": "0"
+  },
+  { "name": "Server 9",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
+    "link": "http://www.dayiptv.pro:25461/npTJZa5RcNEzL5Y/Nk8SfNNXwJvu8wB/63505",
+    "srn": "0"
+  },
+  { "name": "Server 10",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
+    "link": "http://www.dayiptv.pro:25461/npTJZa5RcNEzL5Y/Nk8SfNNXwJvu8wB/93728",
+    "srn": "0"
+  },
+  { "name": "Server 11",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
+    "link": "http://www.dayiptv.pro:25461/npTJZa5RcNEzL5Y/Nk8SfNNXwJvu8wB/102230",
+    "srn": "0"
+  },
+  { "name": "Server 12",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
     "link": "https://player.twitch.tv/?channel=wpeejlscwpfty&parent=google.com",
     "srn": "dweb"
   },
-  { "name": "Server 9",
+  { "name": "Server 13",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
     "link": "https://player.twitch.tv/?channel=cketcyqvpoktla&parent=google.com",
     "srn": "dweb"
