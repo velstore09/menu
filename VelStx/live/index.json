@@ -9,14 +9,19 @@
     "link": "https://player.twitch.tv/?channel=cketcyqvpoktla&parent=google.com",
     "srn": "dweb"
   },
-  { "name": "Server",
+  { "name": "Server N1",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
     "link": "https://ipl-live.s3.ap-south-1.amazonaws.com/mixcasthd.com_3/index2.m3u8",
     "srn": "0"
   },
-  { "name": "ServerS",
+  { "name": "Server N2",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
     "link": "https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_1/index2.m3u8",
+    "srn": "0"
+  },
+  { "name": "Server N3",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
+    "link": "https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_0/index2.m3u8",
     "srn": "0"
   },
   { "name": "Server 1",
