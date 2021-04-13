@@ -24,6 +24,18 @@
   "srn": "web"
   },
   {
+  "image": "https://1.bp.blogspot.com/-E8NCkIDetro/YHL02rywd3I/AAAAAAAAAM0/UyKgU_3cRzAiwIQXIYeZXAgARpvMTn9HACLcBGAsYHQ/s0/live.png",
+  "name": "LIVE APP",
+  "pro": "https://github.com/velstore09/menu/releases/download/vel0.2/VelTvV0.2.apk",
+  "srn": "app"
+  },
+  {
+  "image": "https://1.bp.blogspot.com/-E8NCkIDetro/YHL02rywd3I/AAAAAAAAAM0/UyKgU_3cRzAiwIQXIYeZXAgARpvMTn9HACLcBGAsYHQ/s0/live.png",
+  "name": "LIVE",
+  "pro": "https://www.velayudhan.me/apppromo.html",
+  "srn": "web"
+  },
+  {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/TEAMS-min.png",
   "name": "TEAMS",
   "pro": "https://vel9.velayudhan.me/IPLUpdates/teams/index.json",
