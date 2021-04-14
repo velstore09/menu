@@ -6,6 +6,30 @@
   "srn": "vlist"
   },
   {
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/PRETEL-min.png",
+  "name": "PREDICTION (T)",
+  "pro": "https://t.me/iplprediction_2022",
+  "srn": "act"
+  },
+  {
+  "image": "https://vel9.velayudhan.me/IPLUpdates/menu/PREAPP-min.png",
+  "name": "PREDICTION (A)",
+  "pro": "https://play.google.com/store/apps/details?id=com.predictor.link",
+  "srn": "act"
+  },
+  {
+  "image": "https://1.bp.blogspot.com/-E8NCkIDetro/YHL02rywd3I/AAAAAAAAAM0/UyKgU_3cRzAiwIQXIYeZXAgARpvMTn9HACLcBGAsYHQ/s0/live.png",
+  "name": "LIVE APP",
+  "pro": "https://github.com/velstore09/menu/releases/download/vel0.2/VelTvV0.2.apk",
+  "srn": "app"
+  },
+  {
+  "image": "https://1.bp.blogspot.com/-E8NCkIDetro/YHL02rywd3I/AAAAAAAAAM0/UyKgU_3cRzAiwIQXIYeZXAgARpvMTn9HACLcBGAsYHQ/s0/live.png",
+  "name": "LIVE",
+  "pro": "https://www.velayudhan.me/apppromo.html",
+  "srn": "web"
+  },
+  {
   "image": "https://vel9.velayudhan.me/IPLUpdates/menu/LIVESCORE-min.png",
   "name": "LIVESCORE",
   "pro": "https://www.iplt20.com/match/2021/06",
