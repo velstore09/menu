@@ -9,9 +9,21 @@
     "link": "https://player.twitch.tv/?channel=cketcyqvpoktla&parent=google.com",
     "srn": "dweb"
   },
-  { "name": "Server N",
+  { "name": "Server T1",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "http://3.17.207.195:7002/live/vflix.m3u8",
+    "link": "https://rootercwpoc.akamaized.net/hls/a83d3b9e32980f6c7cce110586b73273/low.m3u8",
+    "srn": "0"
+  },
+  
+  { "name": "Server T2",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
+    "link": "https://rootercwpoc.akamaized.net/hls/a83d3b9e32980f6c7cce110586b73273/mid.m3u8",
+    "srn": "0"
+  },
+  
+  { "name": "Server T3",
+    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
+    "link": "https://rootercwpoc.akamaized.net/hls/a83d3b9e32980f6c7cce110586b73273/high.m3u8",
     "srn": "0"
   },
   { "name": "Server N1",
