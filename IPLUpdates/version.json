@@ -1,18 +1,18 @@
 [
-  { "banlink": "",
+  { "banlink": "http://bit.ly/VelVer02",
     "banname": "IPL Live",
-    "tele": "",
-    "bansrn": "",
-    "sharelink": "",
+    "tele": "https://t.me/VelTvOfficial",
+    "bansrn": "app",
+    "sharelink": "http://bit.ly/VelVer02",
     "sharetxt": "I'm inviting you to Install this Awesome Apllication Link: [ ",
-    "req": "https://vel9.velayudhan.me/IPLUpdates/uindex.json" 
+    "req": "https://vel9.velayudhan.me/IPLUpdates/index.json" 
   },
-  { "banlink": "",
+  { "banlink": "http://bit.ly/VelVer02",
     "banname": "IPL Live",
-    "tele": "",
-    "bansrn": "",
-    "sharelink": "",
+    "tele": "https://t.me/VelTvOfficial",
+    "bansrn": "app",
+    "sharelink": "http://bit.ly/VelVer02",
     "sharetxt": "I'm inviting you to Install this Awesome Apllication Link: [ ",
-    "req": "https://vel9.velayudhan.me/IPLUpdates/uindex.json" 
+    "req": "https://vel9.velayudhan.me/IPLUpdates/index.json" 
   }
 ]
