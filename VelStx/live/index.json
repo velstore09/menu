@@ -9,40 +9,6 @@
     "link": "https://player.twitch.tv/?channel=cketcyqvpoktla&parent=google.com",
     "srn": "dweb"
   },
-  { "name": "Server H1",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rootercwpoc.akamaized.net/hls/a83d3b9e32980f6c7cce110586b73273/low.m3u8",
-    "srn": "0"
-  },
-  
-  { "name": "Server H2",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rootercwpoc.akamaized.net/hls/a83d3b9e32980f6c7cce110586b73273/mid.m3u8",
-    "srn": "0"
-  },
-  
-  { "name": "Server H3",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rootercwpoc.akamaized.net/hls/a83d3b9e32980f6c7cce110586b73273/high.m3u8",
-    "srn": "0"
-  },
-  { "name": "Server E1",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rootercwpoc.akamaized.net/hls/a1b1d87020c7739bd9f1da14cdcb7141/low.m3u8",
-    "srn": "0"
-  },
-  
-  { "name": "Server E2",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rootercwpoc.akamaized.net/hls/a1b1d87020c7739bd9f1da14cdcb7141/mid.m3u8",
-    "srn": "0"
-  },
-  
-  { "name": "Server E3",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rootercwpoc.akamaized.net/hls/a1b1d87020c7739bd9f1da14cdcb7141/high.m3u8",
-    "srn": "0"
-  },
   { "name": "Server N1",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
     "link": "https://ipl-live.s3.ap-south-1.amazonaws.com/mixcasthd.com_3/index2.m3u8",
