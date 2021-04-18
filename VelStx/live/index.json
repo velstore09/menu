@@ -9,21 +9,6 @@
     "link": "https://player.twitch.tv/?channel=cketcyqvpoktla&parent=google.com",
     "srn": "dweb"
   },
-  { "name": "Server   e1",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rootercwpoc.akamaized.net/hls/5698d7cded3f97efcb1fd2a50f2a7a5b/low.m3u8",
-    "srn": "0"
-  },
-  { "name": "Server e2",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rootercwpoc.akamaized.net/hls/5698d7cded3f97efcb1fd2a50f2a7a5b/mid.m3u8",
-    "srn": "0"
-  },
-  { "name": "Server e3",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rootercwpoc.akamaized.net/hls/5698d7cded3f97efcb1fd2a50f2a7a5b/high.m3u8",
-    "srn": "0"
-  },
   { "name": "Server N1",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
     "link": "https://ipl-live.s3.ap-south-1.amazonaws.com/mixcasthd.com_3/index2.m3u8",
