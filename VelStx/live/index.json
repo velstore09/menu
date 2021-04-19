@@ -11,17 +11,17 @@
   },
   { "name": "Server 1",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rootercwpoc.akamaized.net/hls/530a3d7e2d44861e73b44dc916e0b600/low.m3u8",
+    "link": "https://rootercwpoc.akamaized.net/hls/f5ebc637e76b2884b6eae3557a4572c8/low.m3u8",
     "srn": "0"
   },
   { "name": "Server 2",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rootercwpoc.akamaized.net/hls/530a3d7e2d44861e73b44dc916e0b600/mid.m3u8",
+    "link": "https://rootercwpoc.akamaized.net/hls/f5ebc637e76b2884b6eae3557a4572c8/mid.m3u8",
     "srn": "0"
   },
   { "name": "Server 3",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rootercwpoc.akamaized.net/hls/530a3d7e2d44861e73b44dc916e0b600/high.m3u8",
+    "link": "https://rootercwpoc.akamaized.net/hls/f5ebc637e76b2884b6eae3557a4572c8/high.m3u8",
     "srn": "0"
   },
   { "name": "Server N1",
