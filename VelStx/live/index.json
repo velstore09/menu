@@ -24,21 +24,6 @@
     "link": "https://rootercwpoc.akamaized.net/hls/84a6c9e56210df7e2affdc20e0ab8aaf/high.m3u8",
     "srn": "0"
   },
-  { "name": "Server 4",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rootercwpoc.akamaized.net/hls/90598f7f15a09b6e17d7f5c82581ecc2/low.m3u8",
-    "srn": "0"
-  },
-  { "name": "Server 5",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rootercwpoc.akamaized.net/hls/90598f7f15a09b6e17d7f5c82581ecc2/mid.m3u8",
-    "srn": "0"
-  },
-  { "name": "Server 6",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rootercwpoc.akamaized.net/hls/90598f7f15a09b6e17d7f5c82581ecc2/high.m3u8",
-    "srn": "0"
-  },
   { "name": "Server N1",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
     "link": "https://ipl-live.s3.ap-south-1.amazonaws.com/mixcasthd.com_3/index2.m3u8",
