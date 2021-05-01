@@ -1,27 +1,232 @@
 [
   { "name": "ZEE TV HD",
-    "img": "https://appmirror.net/wp-content/uploads/2020/10/zee5-icon.png",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
     "link": "http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8",
     "srn": "0"
   },
   { "name": "ZEE TV ME",
-    "img": "https://appmirror.net/wp-content/uploads/2020/10/zee5-icon.png",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
     "link": "http://cv.khushitv.xyz/channels.php?c=ztvme/tracks-v1a1/index.m3u8",
     "srn": "0"
   },
   { "name": "ZEE TV USA SD",
-    "img": "https://appmirror.net/wp-content/uploads/2020/10/zee5-icon.png",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
     "link": "http://cv.khushitv.xyz/channels.php?c=ztvsdusa&e=.m3u8",
     "srn": "0"
   },
   { "name": "ZEE TV USA HD",
-    "img": "https://appmirror.net/wp-content/uploads/2020/10/zee5-icon.png",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
     "link": "http://cv.khushitv.xyz/channels.php?c=ztvhdusa&e=.m3u8",
     "srn": "0"
   },
-  { "name": "Zee",
-    "img": "https://appmirror.net/wp-content/uploads/2020/10/zee5-icon.png",
-    "link": "https://bit.ly/3fKTNU8seTHd",
+  { "name": "ZEE TV CANADA",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=canadahd&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "BIG MAGIC",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=bigmagic&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "BIG GANGA",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=bigganga&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE LIVING",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8",
+    "srn": "0"
+  },
+  { "name": "ETC PUNJABI",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=etcpnjbiusa&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE ANMOL",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=zeeanmol&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE MARATHI USA",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=marathiusa&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE KERALAM HD",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=livingfoodzhd&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE MUNDO HD",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=mundohd&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE MAGIC",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=magic&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE RUSSIA",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=russia&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE WORLD",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=world&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZING",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE RAJHASTHAN",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=zinguk&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE PUNJABI",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=punjabi&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE MP CG",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=newsmpcg&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE KALAK",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=kalak&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE BIHAR",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=biharjharkh&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "WION",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=wion&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "AND TV",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=zeeanmol&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE VAJWA",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=zeevajwa&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE ZEST SD",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=zzestsd&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE ZEST HD",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=zzesthd&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE  CINEMA ME",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=zeecinemame&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE CINEMA HD",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE CINEMA USA",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=cinemausa&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE CINEMA UK",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=cinemauk&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "& PICTURES SD",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "& PICTURES HD",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE ANMOL CINEMA",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://z5amshls.akamaized.net/zanmolcnm&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE CLASSIC",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=classic&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE ACTION",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE CIMEMALU SD",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=zcinemalusd&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE BANGLA CINEMA",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=zbanglacnm&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE TALKIES SD",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=zeetalkies&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE TALKIES HD",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=ztalkieshd&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "AND FLIX SD",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=andflix&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "AND FLIX HD",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE CAFE SD",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=zeecafesd&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE CAFE HD",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=zeecafehd&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "AND PRIVE HD",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=andprivehd/tracks-v4a1&e=.m3u8",
+    "srn": "0"
+  },
+  { "name": "ZEE SMILE USA",
+    "img": "https://1.bp.blogspot.com/-zRXh0LPZcjg/YI2QvkjIEYI/AAAAAAAAAOU/rjNvG6etFGINhwFN1l0xVRoZ1m9_lZ_VQCLcBGAsYHQ/s300/zee5-icon.png",
+    "link": "http://cv.khushitv.xyz/channels.php?c=smileusa&e=.m3u8",
     "srn": "0"
   }
   ]
