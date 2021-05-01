@@ -2,26 +2,26 @@
   { "name": "ZEE TV HD",
     "img": "https://appmirror.net/wp-content/uploads/2020/10/zee5-icon.png",
     "link": "http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8",
-    "srn": "ply"
+    "srn": "0"
   },
   { "name": "ZEE TV ME",
     "img": "https://appmirror.net/wp-content/uploads/2020/10/zee5-icon.png",
     "link": "http://cv.khushitv.xyz/channels.php?c=ztvme/tracks-v1a1/index.m3u8",
-    "srn": "ply"
+    "srn": "0"
   },
   { "name": "ZEE TV USA SD",
     "img": "https://appmirror.net/wp-content/uploads/2020/10/zee5-icon.png",
     "link": "http://cv.khushitv.xyz/channels.php?c=ztvsdusa&e=.m3u8",
-    "srn": "ply"
+    "srn": "0"
   },
   { "name": "ZEE TV USA HD",
     "img": "https://appmirror.net/wp-content/uploads/2020/10/zee5-icon.png",
     "link": "http://cv.khushitv.xyz/channels.php?c=ztvhdusa&e=.m3u8",
-    "srn": "ply"
+    "srn": "0"
   },
   { "name": "Zee",
     "img": "https://appmirror.net/wp-content/uploads/2020/10/zee5-icon.png",
     "link": "https://bit.ly/3fKTNU8seTHd",
-    "srn": "ply"
+    "srn": "0"
   }
   ]
