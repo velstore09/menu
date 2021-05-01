@@ -1,17 +1,8 @@
 [
-  { "name": "WServer 1",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://player.twitch.tv/?channel=wpeejlscwpfty&parent=google.com",
-    "srn": "dweb"
-  },
-  { "name": "WServer 2",
-    "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://player.twitch.tv/?channel=cketcyqvpoktla&parent=google.com",
-    "srn": "dweb"
-  },
+  
   { "name": "Server 1",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
-    "link": "https://rootercwpoc.akamaized.net/hls/c6462eec0d5e85c6a4df023583dd6495/low.m3u8",
+    "link": "http://api.videobuddy.vid007.com/yoyo/video/ipl/new/index.m3u8?Expires=1650442291&KeyName=aaaaa&Signature=NCCVT0GO4P3-mq8euRb4hnwpxdk=",
     "srn": "0"
   },
   { "name": "Server 2",
