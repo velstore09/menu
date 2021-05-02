@@ -1,92 +1,47 @@
 [
-  { "name": "SET HD",
+  { "name": "SIX HD",
     "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/3fKTNU8seTHd",
-    "srn": "ply2"
-  },
-  { "name": "SAB HD",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/3fBsABhd",
-    "srn": "ply2"
-  },
-  { "name": "PAL",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/30a3wsONyPal",
-    "srn": "ply2"
-  },
-  { "name": "MARATHI",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/32JsoNYMaraTHi",
-    "srn": "ply2"
-  },
-  { "name": "AATH",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/2ORsONyaAaTh",
-    "srn": "ply2"
-  },
-  { "name": "YAY HIN",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/2WmsoNYYaY",
-    "srn": "ply2"
-  },
-  { "name": "MAX HD",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/32bsOnymAXhd",
-    "srn": "ply2"
-  },
-  { "name": "MAX 2",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/30dsoNYmaX2",
-    "srn": "ply2"
-  },
-  { "name": "WAH",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/3j7sOnywAh",
-    "srn": "ply2"
-  },
-  { "name": "PIX HD",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/32sOnypIXhd",
-    "srn": "ply2"
-  },
-  { "name": "TEN 1 HD",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/2B9tEN1hd",
-    "srn": "ply2"
-  },
-  { "name": "TEN 2 HD",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/2DOtEN2hd",
-    "srn": "ply2"
-  },
-  { "name": "TEN 3 HD",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/2OwtEn3hd",
-    "srn": "ply2"
+    "link": "https://prasadtv.tk/Geo/play.m3u8?c=Six_HD&q=800&e.m3u8",
+    "srn": "0"
   },
   { "name": "TEN 1",
     "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/2ZtEn1Sd",
-    "srn": "ply2"
+    "link": "https://prasadtv.tk/Geo/play.m3u8?c=Ten_1&q=800&e.m3u8",
+    "srn": "0"
+  },
+  { "name": "TEN 2",
+    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
+    "link": "https://prasadtv.tk/Geo/play.m3u8?c=Ten_2&q=800&e.m3u8",
+    "srn": "0"
+  },
+  { "name": "TEN 3",
+    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
+    "link": "https://prasadtv.tk/Geo/play.m3u8?c=Ten_3&q=800&e.m3u8",
+    "srn": "0"
+  },
+  { "name": "SIX SD",
+    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
+    "link": "https://prasadtv.tk/Geo/play.m3u8?c=Sony_Six_SD&q=800&e.m3u8",
+    "srn": "0"
   },
   { "name": "TEN 2",
     "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
     "link": "https://bit.ly/30teN2sd",
-    "srn": "ply2"
+    "srn": "0"
   },
   { "name": "TEN 3",
     "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
     "link": "https://bit.ly/2B9teN3sd",
-    "srn": "ply2"
+    "srn": "0"
   },
   { "name": "SIX",
     "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
     "link": "https://bit.ly/3j8sIx7sd",
-    "srn": "ply2"
+    "srn": "0"
   },
   { "name": "SIX HD",
     "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
     "link": "https://bit.ly/3h6sIXHd",
-    "srn": "ply2"
+    "srn": "0"
   }
 ]
