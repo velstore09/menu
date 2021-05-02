@@ -159,9 +159,244 @@
     "link": "https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8",
     "srn": "0"
   },
-  { "name": "SIX",
-    "img": "https",
-    "link": "https",
+  { "name": "Arasan TV",
+    "img": "https://shaneparis.org/wp-content/uploads/2016/05/tv_placeholder.png",
+    "link": "http://ammacable.com:1935/acn/arasantv/playlist.m3u8",
+    "srn": "0"
+  },
+  { "name": "Asianet News",
+    "img": "https://i.imgur.com/89LBgkl.png",
+    "link": "http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8",
+    "srn": "0"
+  },
+  { "name": "Asianet News",
+    "img": "https://i.imgur.com/89LBgkl.png",
+    "link": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8",
+    "srn": "0"
+  },
+  { "name": "Asianet News Bangla",
+    "img": "https://static.asianetnews.com/v1/images/bangla_logo.png",
+    "link": "https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8",
+    "srn": "0"
+  },
+  { "name": "Asianet News Kannada",
+    "img": "https://static.asianetnews.com/v1/images/asianet_suvarna_news.png",
+    "link": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8",
+    "srn": "0"
+  },
+  { "name": "Asianet News Tamil",
+    "img": "https://static.asianetnews.com/v1/images/tamil_logo.png",
+    "link": "https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8",
+    "srn": "0"
+  },
+  { "name": "Assam Talks",
+    "img": "https://shaneparis.org/wp-content/uploads/2016/05/tv_placeholder.png",
+    "link": "http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8",
+    "srn": "0"
+  },
+  { "name": "Ayush TV",
+    "img": "http://mhdtvworld.com/wp-content/uploads/2018/12/ayush_tv_in.png",
+    "link": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
+    "srn": "0"
+  },
+  { "name": "B4U Kadak",
+    "img": "http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png",
+    "link": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8",
+    "srn": "0"
+  },
+  { "name": "B4U Kadak",
+    "img": "http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png",
+    "link": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8",
+    "srn": "0"
+  },
+  { "name": "Bflix Movies",
+    "img": "https://shaneparis.org/wp-content/uploads/2016/05/tv_placeholder.png",
+    "link": "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8",
+    "srn": "0"
+  },
+  { "name": "Bollywood",
+    "img": "https://shaneparis.org/wp-content/uploads/2016/05/tv_placeholder.png",
+    "link": "https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8",
+    "srn": "0"
+  },
+  { "name": "Bollywood Classic",
+    "img": "https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png",
+    "link": "http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END",
+    "srn": "0"
+  },
+  { "name": "BollyWood HD",
+    "img": "https://shaneparis.org/wp-content/uploads/2016/05/tv_placeholder.png",
+    "link": "http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END",
+    "srn": "0"
+  },
+  { "name": "Bollywood Now",
+    "img": "https://i.imgur.com/w06sLAh.jpg",
+    "link": "https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8",
+    "srn": "0"
+  },
+  { "name": "Bollywood TV",
+    "img": "https://i.imgur.com/d8mJYu0.png",
+    "link": "https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8",
+    "srn": "0"
+  },
+  { "name": "Bollywood TV",
+    "img": "https://i.imgur.com/d8mJYu0.png",
+    "link": "https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8",
+    "srn": "0"
+  },
+  { "name": "Bollywood TV",
+    "img": "https://i.imgur.com/d8mJYu0.png",
+    "link": "https://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8",
+    "srn": "0"
+  },
+  { "name": "Boogle Bollywood",
+    "img": "http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png",
+    "link": "http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8",
+    "srn": "0"
+  },
+  { "name": "BritCom (720p)",
+    "img": "https://shaneparis.org/wp-content/uploads/2016/05/tv_placeholder.png",
+    "link": "https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8",
+    "srn": "0"
+  },
+  { "name": "Channel Win",
+    "img": "https://shaneparis.org/wp-content/uploads/2016/05/tv_placeholder.png",
+    "link": "https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8",
+    "srn": "0"
+  },
+  { "name": "Channel Y",
+    "img": "https://shaneparis.org/wp-content/uploads/2016/05/tv_placeholder.png",
+    "link": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8",
+    "srn": "0"
+  },
+  { "name": "Cine Voice",
+    "img": "http://mhdtvworld.com/wp-content/uploads/2018/12/CINEVOICETV56.jpg",
+    "link": "https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8",
+    "srn": "0"
+  },
+  { "name": "Cine Voice",
+    "img": "http://mhdtvworld.com/wp-content/uploads/2018/12/CINEVOICETV56.jpg",
+    "link": "https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8",
+    "srn": "0"
+  },
+  { "name": "CNBC Awaaz",
+    "img": "https://shaneparis.org/wp-content/uploads/2016/05/tv_placeholder.png",
+    "link": "https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8",
+    "srn": "0"
+  },
+  { "name": "CNBC Awaaz",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png",
+    "link": "https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8",
+    "srn": "0"
+  },
+  { "name": "CNBC Awaaz SD",
+    "img": "https://shaneparis.org/wp-content/uploads/2016/05/tv_placeholder.png",
+    "link": "https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on",
+    "srn": "0"
+  },
+  { "name": "CNBC Bajar",
+    "img": "http://mhdtvworld.com/wp-content/uploads/2019/08/cnbc_bajar_in.png",
+    "link": "https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8",
+    "srn": "0"
+  },
+  { "name": "CNBC TV18",
+    "img": "https://i.imgur.com/3yumcV3.jpg",
+    "link": "https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8",
+    "srn": "0"
+  },
+  { "name": "CNBC TV18",
+    "img": "https://i.imgur.com/3yumcV3.jpg",
+    "link": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8",
+    "srn": "0"
+  },
+  { "name": "DD Malayalam",
+    "img": "https://i.imgur.com/9HfMVKs.jpg",
+    "link": "http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8",
+    "srn": "0"
+  },
+  { "name": "DD National",
+    "img": "http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png",
+    "link": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
+    "srn": "0"
+  },
+  { "name": "DD National",
+    "img": "http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png",
+    "link": "https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8",
+    "srn": "0"
+  },
+  { "name": "DD News",
+    "img": "https://shaneparis.org/wp-content/uploads/2016/05/tv_placeholder.png",
+    "link": "https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8",
+    "srn": "0"
+  },
+  { "name": "DD Sports",
+    "img": "http://static.epg.best/in/DDSports.in.png",
+    "link": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8",
+    "srn": "0"
+  },
+  { "name": "DD Sports",
+    "img": "http://static.epg.best/in/DDSports.in.png",
+    "link": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8",
+    "srn": "0"
+  },
+  { "name": "Desi Channel",
+    "img": "http://mhdtvworld.com/wp-content/uploads/2018/12/DESICHANNEL09.jpg",
+    "link": "https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8",
+    "srn": "0"
+  },
+  { "name": "Desi Plus",
+    "img": "http://mhdtvworld.com/wp-content/uploads/2018/12/desiplustv.jpg",
+    "link": "http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8",
+    "srn": "0"
+  },
+  { "name": "Divya",
+    "img": "http://channeldivya.com/wp-content/uploads/2018/12/logo.png",
+    "link": "http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/playlist.m3u8",
+    "srn": "0"
+  },
+  { "name": "EET TV",
+    "img": "https://i.imgur.com/f7J37yv.png",
+    "link": "https://live.streamjo.com/eetlive/eettv.m3u8",
+    "srn": "0"
+  },
+  { "name": "ET Now",
+    "img": "https://i.imgur.com/rhkI95a.png",
+    "link": "http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8",
+    "srn": "0"
+  },
+  { "name": "ET Now",
+    "img": "https://i.imgur.com/rhkI95a.png",
+    "link": "https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8",
+    "srn": "0"
+  },
+  { "name": "Fashion TV",
+    "img": "http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png",
+    "link": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8",
+    "srn": "0"
+  },
+  { "name": "FASTWAY NEWS",
+    "img": "https://shaneparis.org/wp-content/uploads/2016/05/tv_placeholder.png",
+    "link": "http://163.47.214.155:1935/fwnews/live/playlist.m3u8",
+    "srn": "0"
+  },
+  { "name": "Flowers TV",
+    "img": "http://www.flowerstv.in/wp-content/uploads/2017/12/Flowers-Logo-alpha-1.png",
+    "link": "http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8",
+    "srn": "0"
+  },
+  { "name": "Gabruu TV",
+    "img": "https://i.imgur.com/k9kHJv9.jpg",
+    "link": "http://104.237.60.234/live/gabruutv.m3u8",
+    "srn": "0"
+  },
+  { "name": "Gaunda Punjab TV",
+    "img": "https://i.imgur.com/J74dCx6.png",
+    "link": "http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8",
+    "srn": "0"
+  },
+  { "name": "Global Punjab",
+    "img": "https://shaneparis.org/wp-content/uploads/2016/05/tv_placeholder.png",
+    "link": "https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8",
     "srn": "0"
   },
   { "name": "SIX",
@@ -293,8 +528,7 @@
     "img": "https",
     "link": "https",
     "srn": "0"
-  },
-  { "name": "SIX",
+  },{ "name": "SIX",
     "img": "https",
     "link": "https",
     "srn": "0"
@@ -390,6 +624,40 @@
     "srn": "0"
   },
   { "name": "SIX",
+    "img": "https",
+    "link": "https",
+    "srn": "0"
+  },
+  { "name": "SIX",
+    "img": "https",
+    "link": "https",
+    "srn": "0"
+  },
+  { "name": "SIX",
+    "img": "https",
+    "link": "https",
+    "srn": "0"
+  },
+  { "name": "SIX",
+    "img": "https",
+    "link": "https",
+    "srn": "0"
+  },
+  { "name": "SIX",
+    "img": "https",
+    "link": "https",
+    "srn": "0"
+  },
+  { "name": "SIX",
+    "img": "https",
+    "link": "https",
+    "srn": "0"
+  },
+  { "name": "SIX",
+    "img": "https",
+    "link": "https",
+    "srn": "0"
+  },{ "name": "SIX",
     "img": "https",
     "link": "https",
     "srn": "0"
