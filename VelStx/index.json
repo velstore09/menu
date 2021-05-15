@@ -57,7 +57,8 @@
   "image": "https://1.bp.blogspot.com/-hNs1l0nuObQ/YHLNV_Rn7CI/AAAAAAAAAMg/ge4At-eQZxE_EKfLxp8a4NHKWU5Jt5LWACLcBGAsYHQ/s0/Sony.png",
   "name": "Movies",
   "pro": "https://vel9.velayudhan.me/VelStx/movies/index.json",
-  "srn": "vlist"
+  "srn": "vlist",
+  "key": "API-KEY=rpmuyrv4k75m5losacbzb0ay&type=movie&id="
   },
   {
   "image": "https://vel9.velayudhan.me/VelStx/menu/POINTSTABLE-min.png",
