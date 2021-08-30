@@ -3,7 +3,7 @@
   { "name": "Server 1",
     "img": "https://vel9.velayudhan.me/IPLUpdates/live/256x256bb.jpg",
     "link": "http://api.videobuddy.vid007.com/yoyo/video/ipl/new/index.m3u8?Expires=1650442291&KeyName=aaaaa&Signature=NCCVT0GO4P3-mq8euRb4hnwpxdk=",
-    "srn": "0",
+    "srn": "ply",
     "release": "30 AUG"
   },
   { "name": "Server 2",
