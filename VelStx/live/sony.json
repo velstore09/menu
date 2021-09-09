@@ -1,47 +1,20 @@
 [
-  { "name": "SIX HD",
+  { "name": "Sony Six",
     "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://prasadtv.tk/Geo/play.m3u8?c=Six_HD&q=800&e.m3u8",
-    "srn": "0"
+    "link": "https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8",
+    "srn": "0",
+    "release": "09 SEP"
   },
-  { "name": "TEN 1",
+  { "name": "Server 1",
     "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://prasadtv.tk/Geo/play.m3u8?c=Ten_1&q=800&e.m3u8",
-    "srn": "0"
+    "link": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+    "srn": "0",
+    "release": "09 SEP"
   },
-  { "name": "TEN 2",
+  { "name": "Server 1",
     "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://prasadtv.tk/Geo/play.m3u8?c=Ten_2&q=800&e.m3u8",
-    "srn": "0"
-  },
-  { "name": "TEN 3",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://prasadtv.tk/Geo/play.m3u8?c=Ten_3&q=800&e.m3u8",
-    "srn": "0"
-  },
-  { "name": "SIX SD",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://prasadtv.tk/Geo/play.m3u8?c=Sony_Six_SD&q=800&e.m3u8",
-    "srn": "0"
-  },
-  { "name": "TEN 2",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/30teN2sd",
-    "srn": "0"
-  },
-  { "name": "TEN 3",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/2B9teN3sd",
-    "srn": "0"
-  },
-  { "name": "SIX",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/3j8sIx7sd",
-    "srn": "0"
-  },
-  { "name": "SIX HD",
-    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bit.ly/3h6sIXHd",
-    "srn": "0"
+    "link": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+    "srn": "0",
+    "release": "09 SEP"
   }
 ]
