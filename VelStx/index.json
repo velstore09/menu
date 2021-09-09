@@ -55,10 +55,9 @@
   },
   {
   "image": "https://1.bp.blogspot.com/-hNs1l0nuObQ/YHLNV_Rn7CI/AAAAAAAAAMg/ge4At-eQZxE_EKfLxp8a4NHKWU5Jt5LWACLcBGAsYHQ/s0/Sony.png",
-  "name": "Movies",
-  "pro": "https://vel9.velayudhan.me/VelStx/movies/index.json",
-  "srn": "vlist",
-  "key": "https://hvmovies.ga/rest-api//v100/single_details?API-KEY=rpmuyrv4k75m5losacbzb0ay&type=movie&id="
+  "name": "Sports",
+  "pro": "https://vel9.velayudhan.me/VelStx/live/sony.json",
+  "srn": "vlist"
   },
   {
   "image": "https://vel9.velayudhan.me/VelStx/menu/POINTSTABLE-min.png",
