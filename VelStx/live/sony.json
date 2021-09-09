@@ -26,13 +26,13 @@
   { "name": "DD Sports1",
     "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
     "link": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8",
-    "srn": "0",
+    "srn": "ply2",
     "release": "09 SEP"
   },
   { "name": "DD Sports2",
     "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
     "link": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8",
-    "srn": "0",
+    "srn": "ply2",
     "release": "09 SEP"
   },
   { "name": "Abu Dhabi Sports 1",
