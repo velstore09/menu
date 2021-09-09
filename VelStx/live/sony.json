@@ -1,19 +1,25 @@
 [
-  { "name": "Sony Six FHD",
+  { "name": "Sony Six [eng]",
     "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "http://dtv21.org:2082/Red123_394985/sikXriN2I7/52576",
+    "link": "https://cdn.nowhdtime.com.bd/SonySix/index.m3u8",
     "srn": "0",
     "release": "09 SEP"
   },
-  { "name": "Server 1",
+  { "name": "Sony Ten3",
     "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+    "link": "https://bit.ly/2WoJQHv",
     "srn": "0",
     "release": "09 SEP"
   },
-  { "name": "Server 1",
+  { "name": "Sony Ten3",
     "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
-    "link": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+    "link": "http://103.213.238.194:8080/SonyTen3/index.m3u8",
+    "srn": "0",
+    "release": "09 SEP"
+  },
+  { "name": "Sony Ten3",
+    "img": "https://1.bp.blogspot.com/-CO6wsdmyRZQ/YHLOiabLRgI/AAAAAAAAAMs/mey6qMjzIB8tC30QCm3FoSy9ISv2aLySwCLcBGAsYHQ/s0/SonyC.png",
+    "link": "http://103.213.238.194:8080/SonyTen3/index.m3u8",
     "srn": "0",
     "release": "09 SEP"
   }
