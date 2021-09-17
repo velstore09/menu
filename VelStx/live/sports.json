@@ -89,9 +89,75 @@
     "srn": "0",
     "release": "17 SEP"
   },
+  { "name": "FOX 501 HD",
+    "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
+    "link": "http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP",
+    "srn": "0",
+    "release": "17 SEP"
+  },
+  { "name": "Sky Sports Cricket",
+    "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
+    "link": "http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=hubtvapp",
+    "srn": "0",
+    "release": "17 SEP"
+  },
+  { "name": "Sony Ten 1",
+    "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
+    "link": "http://103.213.238.194:8080/SonyTen1/index.m3u8",
+    "srn": "0",
+    "release": "17 SEP"
+  },
+  { "name": "Sony Ten 2",
+    "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
+    "link": "http://103.213.238.194:8080/SonyTen2/index.m3u8",
+    "srn": "0",
+    "release": "17 SEP"
+  },
+  { "name": "Sony Ten 3",
+    "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
+    "link": "http://103.213.238.194:8080/SonyTen3/index.m3u8",
+    "srn": "0",
+    "release": "17 SEP"
+  },
+  { "name": "Sony Six",
+    "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
+    "link": "https://cdn.nowhdtime.com.bd/SonySix/index.m3u8",
+    "srn": "0",
+    "release": "17 SEP"
+  },
+  { "name": "Sky Sports Cricket",
+    "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
+    "link": "http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/2021/09/17/08/19/19-05440.ts?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb48364dc6f3803029c84ed58a99bb56993ad53fb5d103eb54030890c8a99ff4d4ac3df2b32b6f274da890d382b30dbbaee94619c48122e2ce4f255bff964a5f91fa65450ec4f90d87a41a97b8e880ded9587fb15437c977",
+    "srn": "0",
+    "release": "17 SEP"
+  },
+  { "name": "Geo Super",
+    "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
+    "link": "http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8",
+    "srn": "0",
+    "release": "17 SEP"
+  },
+  { "name": "PTV Sports",
+    "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
+    "link": "http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "srn": "0",
+    "release": "17 SEP"
+  },
+  { "name": "Star Sports 1",
+    "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
+    "link": "http://137.59.155.77:8088/hls/07starsports1.m3u8",
+    "srn": "0",
+    "release": "17 SEP"
+  },
   { "name": " PTV Sports",
     "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
     "link": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+    "srn": "0",
+    "release": "17 SEP"
+  },
+  { "name": "T Sports",
+    "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
+    "link": "http://137.59.155.77:8088/hls/06T_SportsBD.m3u8",
     "srn": "0",
     "release": "17 SEP"
   }
