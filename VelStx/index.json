@@ -36,18 +36,6 @@
   "srn": "web"
   },
   {
-  "image": "https://vel9.velayudhan.me/VelStx/menu/HIGHLIGHTS-min.png",
-  "name": "HIGHLIGHTS",
-  "pro": "https://vel9.velayudhan.me/VelStx/highlights/index.json",
-  "srn": "vlist"
-  },
-  {
-  "image": "https://1.bp.blogspot.com/-E8NCkIDetro/YHL02rywd3I/AAAAAAAAAM0/UyKgU_3cRzAiwIQXIYeZXAgARpvMTn9HACLcBGAsYHQ/s0/live.png",
-  "name": "LIVE",
-  "pro": "https://vel9.velayudhan.me/VelStx/live/index.json",
-  "srn": "vlist"
-  },
-  {
   "image": "https://1.bp.blogspot.com/-gea7_FioklY/YUQngYibo2I/AAAAAAAAAOU/WGG6ECqZ5OMAKq9VqkQ7B7cDpOwSa4XqQCLcBGAsYHQ/w200-h200/sun.png",
   "name": "SunNxt",
   "pro": "https://vel9.velayudhan.me/VelStx/live/sun.json",
@@ -57,6 +45,18 @@
   "image": "https://1.bp.blogspot.com/-efoxPs_e920/YUQkC7FxcnI/AAAAAAAAAOE/e9C58nRDSz8xXQC8QDLtjs7Y8chLlbNEwCLcBGAsYHQ/w200-h200/SPORTS.jpg",
   "name": "Sports",
   "pro": "https://vel9.velayudhan.me/VelStx/live/sports.json",
+  "srn": "vlist"
+  },
+  {
+  "image": "https://vel9.velayudhan.me/VelStx/menu/HIGHLIGHTS-min.png",
+  "name": "HIGHLIGHTS",
+  "pro": "https://vel9.velayudhan.me/VelStx/highlights/index.json",
+  "srn": "vlist"
+  },
+  {
+  "image": "https://1.bp.blogspot.com/-E8NCkIDetro/YHL02rywd3I/AAAAAAAAAM0/UyKgU_3cRzAiwIQXIYeZXAgARpvMTn9HACLcBGAsYHQ/s0/live.png",
+  "name": "LIVE",
+  "pro": "https://vel9.velayudhan.me/VelStx/live/index.json",
   "srn": "vlist"
   },
   {
