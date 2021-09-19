@@ -1,4 +1,10 @@
 [
+  { "name": "Star Sports SD [IPL]",
+    "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
+    "link":"https://rootercwpoc.akamaized.net/hls/6bb96d9844f79e3425c2cca7f8649ae0/index.m3u8", 
+    "srn": "0",
+    "release": "19 SEP"
+  },
   { "name": "ENGLISH [IPL]",
     "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
     "link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/klnrpw-XnbwAxewjVtevcJWfPjcadLON-1UDcFfCG_f0XyM5top-t8lqJWZtqGyTPgRfoMPEzW_F4gFzTSjKeQ/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=@rk",
