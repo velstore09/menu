@@ -11,6 +11,18 @@
     "srn": "0",
     "release": "19 SEP"
   },
+  { "name": "SD 480P [IPL]",
+    "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
+    "link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/klnrpw-XnbwAxewjVtevcJWfPjcadLON-1UDcFfCG_f0XyM5top-t8lqJWZtqGyTPgRfoMPEzW_F4gFzTSjKeQ/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=@rk",
+   "srn": "0",
+    "release": "19 SEP"
+  },
+  { "name": "SD 224P [IPL]",
+    "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
+    "link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/klnrpw-XnbwAxewjVtevcJWfPjcadLON-1UDcFfCG_f0XyM5top-t8lqJWZtqGyTPgRfoMPEzW_F4gFzTSjKeQ/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=@rk",
+   "srn": "0",
+    "release": "19 SEP"
+  },
   { "name": "ASTRO SUPER SPORTS [IPL]",
     "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
     "link": "http://nwbz1u.ecm.tm/806B6CF/89181e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083d9f4ca7021b397c900226a07b7114874b9197afacbbdec51deedd083ce4aa1ee96e8e61013ef1a1c1d13948427ba4cac1f64bddcef651053c797030f2f609faa61b4c1bcf14d36071992d1ddeaf74d2f6ed8481a96c5710ab9d2619d09b43ad&mac=00:1A:79:3A:6B:91&ip=202.134.14.145&magic_server=MAIN_MP",
