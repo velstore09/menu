@@ -1,4 +1,10 @@
 [
+  { "name": "BEIN SPORTS [IPL]",
+    "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
+    "link": "http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_3/tracks-v1a1/mono.m3u8",
+    "srn": "0",
+    "release": "19 SEP"
+  },
   { "name": "Sony Six [eng]",
     "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
     "link": "https://cdn.nowhdtime.com.bd/SonySix/index.m3u8",
