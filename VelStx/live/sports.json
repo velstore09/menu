@@ -5,12 +5,6 @@
     "srn": "0",
     "release": "19 SEP"
   },
-   { "name": "Hindi [IPL]",
-    "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
-    "link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/YWwuvIJjWYZ91UlFzpsmbUn94Nl5w7bV7LE3ILdfCgU05Z98zg0E6PVZRPkkSAvtwbX94h12CqRBoJk6atHAXA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
-    "srn": "0",
-    "release": "19 SEP"
-  },
    { "name": "English [IPL]",
     "img": "https://1.bp.blogspot.com/-4jpTt3-wDJI/YUQltwNkIwI/AAAAAAAAAOM/PIBieI7uqcw22_oVNg2ABC-RCOUk4JgOACLcBGAsYHQ/w200-h200/PLY.png",
     "link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/2xqHHh3rMR0pyicRG0exREjbs-CyeXzwukQwgTwd4sAEwQwjiyzep5a3U14q6NbRuHYzVTJa27zdSrmFw9p2Dg/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
